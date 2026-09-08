@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Ελληνικά — греческие карточки",
+  "short_name": "Ελληνικά",
+  "description": "Карточки для изучения греческих слов и фраз с русской транскрипцией.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0E2A47",
+  "theme_color": "#0E2A47",
+  "icons": [
+    {
+      "src": "./icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
